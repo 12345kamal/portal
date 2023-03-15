@@ -1,0 +1,9 @@
+- id: 123
+  name: "kamal"
+  contact: "test@data"
+- id: 456
+  name: "jangam"
+  contact: "jangam@example.com"
+- id: 789
+  name: "endra"
+  contact: "endra@example.com"
